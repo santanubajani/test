@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2285" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "VehicleNum": "DCY 0034", "VehicleTyp": "BSII", "Model": null, "Mileage": 25, "FuelType": "DIESEL", "FuelCapaci": "250", "DriverName": "Donald Duck", "SeatCapaci": 52, "RouteFrom": null, "RouteTo": null, "Remarks": null, "EngineMake": null, "EngineNum": null, "Asset_ID": "BUS0001" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1314886.1729418242, 214740.31891523986 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "VehicleNum": "PUL 6533", "VehicleTyp": "BSIV", "Model": null, "Mileage": 30, "FuelType": "DIESEL", "FuelCapaci": "300", "DriverName": "Micky Jones", "SeatCapaci": 52, "RouteFrom": null, "RouteTo": null, "Remarks": null, "EngineMake": null, "EngineNum": null, "Asset_ID": "BUS0002" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1314884.3976559646, 214679.58433358159 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "VehicleNum": "NYC 5539", "VehicleTyp": "BSIV", "Model": null, "Mileage": 21, "FuelType": "DIESEL", "FuelCapaci": "250", "DriverName": "Tom Harry", "SeatCapaci": 48, "RouteFrom": null, "RouteTo": null, "Remarks": null, "EngineMake": null, "EngineNum": null, "Asset_ID": "BUS0003" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1314758.4787574986, 214657.87125116348 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "VehicleNum": "DCY 7890", "VehicleTyp": "BSIII", "Model": null, "Mileage": 18, "FuelType": "DIESEL", "FuelCapaci": "250", "DriverName": "Jerry", "SeatCapaci": 36, "RouteFrom": null, "RouteTo": null, "Remarks": null, "EngineMake": null, "EngineNum": null, "Asset_ID": "BUS0004" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1314733.9430350338, 214725.56757422318 ] ] } }
+]
+}
